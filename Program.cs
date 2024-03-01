@@ -2,8 +2,19 @@
 
 class Program
 {
-    static void Main(string[] args){
-    
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Введите элементы массива, разделяя их запятой:");
+        string[] inputArray = Console.ReadLine().Split(',');
+
+        string[] newArray = FilterArray(inputArray);
+
+        Console.WriteLine("Новый массив:");
+        foreach (string item in newArray)
+        {
+            Console.WriteLine(item);
+        }
+
     }
     static string[] FilterArray(string[] inputArray)
     {
@@ -30,5 +41,5 @@ class Program
 
         return newArray;
     }
-}    
+}
 
