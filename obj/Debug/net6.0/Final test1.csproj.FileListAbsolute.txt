@@ -1,0 +1,15 @@
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\bin\Debug\net6.0\Final test1.exe
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\bin\Debug\net6.0\Final test1.deps.json
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\bin\Debug\net6.0\Final test1.runtimeconfig.json
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\bin\Debug\net6.0\Final test1.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\bin\Debug\net6.0\Final test1.pdb
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\obj\Debug\net6.0\Final test1.csproj.AssemblyReference.cache
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\obj\Debug\net6.0\Final test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\obj\Debug\net6.0\Final test1.AssemblyInfoInputs.cache
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\obj\Debug\net6.0\Final test1.AssemblyInfo.cs
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\obj\Debug\net6.0\Final test1.csproj.CoreCompileInputs.cache
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\obj\Debug\net6.0\Final test1.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\obj\Debug\net6.0\refint\Final test1.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\obj\Debug\net6.0\Final test1.pdb
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\obj\Debug\net6.0\Final test1.genruntimeconfig.cache
+C:\Users\ilya0\OneDrive\Рабочий стол\Course\Course programs\2. C#\Final test1\obj\Debug\net6.0\ref\Final test1.dll
