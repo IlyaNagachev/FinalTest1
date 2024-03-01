@@ -16,5 +16,9 @@ class Program
                 count++;
             }
         }
-    }    
-}
+        string[] newArray = new string[count];
+
+        int index = 0;
+    }
+}    
+
