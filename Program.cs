@@ -19,6 +19,16 @@ class Program
         string[] newArray = new string[count];
 
         int index = 0;
+        foreach (string item in inputArray)
+        {
+            if (item.Length <= 3)
+            {
+                newArray[index] = item;
+                index++;
+            }
+        }
+
+        return newArray;
     }
 }    
 
